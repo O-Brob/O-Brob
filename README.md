@@ -34,5 +34,5 @@ Some of my work can be found on this profile.
 
 ## Featured Projects
 
-- [RealtimePlottingApp](https://github.com/O-Brob/RealtimePlottingApp) - Cross-platform CAN and UART data analysis tool for Linux and Windows for monitoring embedded system comms.
+- [RealtimePlottingApp](https://github.com/O-Brob/RealtimePlottingApp) - Cross-platform CAN and UART data analysis tool for Linux and Windows for monitoring and troubleshooting embedded system communications.
 - [CNN-Pneumonia-Classification](https://github.com/O-Brob/CNN-Pneumonia-Classification) - A PyTorch-based Convolutional Neural Network setup for detecting pneumonia from chest X-ray images.
