@@ -8,6 +8,7 @@ Some of my work can be found on this profile.
 
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/en/)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/)
 [![C-Lang](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C-Sharp](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![Haskell](https://skillicons.dev/icons?i=haskell)](https://www.haskell.org/)
